@@ -1,0 +1,31 @@
+env:
+  - name: APP_NAME
+    value: "ta-elearning"
+  - name: ENVIRONMENT
+    value: "local"
+  - name: PORT
+    value: "8080"
+
+  - name: MYSQL_HOST
+    value: "localhost"
+  - name: MYSQL_PORT
+    value: "3306"
+  - name: MYSQL_USER
+    value: "root"
+  - name: MYSQL_PASS
+    value: ""
+  - name: MYSQL_SCHEMA
+    value: "ta"
+
+  - name: APP_EMAIL
+    value: "elearning@mail.com"
+  - name: SMTP_HOST
+    value: "sandbox.smtp.mailtrap.io"
+  - name: SMTP_PORT
+    value: "2525"
+  - name: SMTP_USERNAME
+    value: "2e06daf00c9178"
+  - name: SMTP_PASSWORD
+    value: "bc3b1ef8c37d1f"
+
+  
